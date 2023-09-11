@@ -14,8 +14,8 @@
     "path-to-regexp": "^6.1.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.8.3",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "react-monaco-editor": "^0.39.1",
     "regenerator-runtime": "^0.13.3",
     "typescript": "^3.5.2"
