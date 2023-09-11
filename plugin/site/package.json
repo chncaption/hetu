@@ -10,7 +10,7 @@
     "antd": "3.26.16",
     "classnames": "^2.2.6",
     "moment": "^2.24.0",
-    "monaco-editor": "^0.20.0",
+    "monaco-editor": "^0.41.0",
     "path-to-regexp": "^6.1.0",
     "prop-types": "^15.7.2",
     "query-string": "^6.8.3",
