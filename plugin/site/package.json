@@ -9,7 +9,7 @@
     "@ice/stark-data": "^0.1.2",
     "antd": "3.26.16",
     "classnames": "^2.2.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "monaco-editor": "^0.20.0",
     "path-to-regexp": "^6.1.0",
     "prop-types": "^15.7.2",
