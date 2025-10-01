@@ -11,7 +11,7 @@
     "report:develop": "cross-env NODE_ENV=dev node dist/task.js sendEmail:DevelopReport"
   },
   "dependencies": {
-    "@adonisjs/ace": "5.0.8",
+    "@adonisjs/ace": "6.0.0",
     "aws-sdk": "^2.406.0",
     "axios": "^0.18.0",
     "body-parser": "^1.19.0",
